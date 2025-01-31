@@ -3,6 +3,7 @@
 Implementación de los principales algoritmos de busqueda y ordenamiento en PHP.
 
 ### Algorithms Sort
+- Buble Sort
 - Quick Sort
 
 ### Algorithms Search
